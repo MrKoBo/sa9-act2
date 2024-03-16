@@ -1,3 +1,4 @@
+# lib/prob3.rb
 class StringWrapper
   def initialize(str)
     @str = str
